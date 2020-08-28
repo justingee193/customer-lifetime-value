@@ -1,6 +1,6 @@
 # Customer Lifetime Value Modeling
 
-This project uses simulated customer transaction data, the project is focused on doing analysis on customer transaction behavior, forecasting future customer transactions using Hierarchical Bayesian Models as well as implementing these models for simulations. This is done to gain insight into working with Bayesian Models and gain a market advantage though the potential use of simulated customer behavior with the help of the modeling.
+This project uses simulated customer transaction data for a fictional e-commerce store, the project is focused on doing analysis on customer transaction behavior, forecasting future customer transactions using Hierarchical Bayesian Models as well as implementing these models for simulations. This is done to gain insight into working with Bayesian Models and gain a market advantage though the potential use of simulated customer behavior with the help of the modeling.
 
 ## Files
 ```
