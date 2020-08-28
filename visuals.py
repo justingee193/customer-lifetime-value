@@ -6,5 +6,3 @@ def future_prediction_plot(model, holdout, n=50):
 
 def transaction_plot(model):
     return plot_period_transactions(model)
-    
-    
